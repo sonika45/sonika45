@@ -1,10 +1,9 @@
 ## Hello, Everyone 👋  
 ### I'm Sonika Khatri 🚀
 
-🎓 **B.Sc. CSIT Student**  
 📍 Kathmandu, Nepal  
-💼 Aspiring **Frontend Developer Intern**  
-🌱 Currently learning **Modern Web Development**
+💼 Aspiring **Frontend Developer**  
+🌱 Currently learning **Web Development**
 
 📫 Reach me at: **sonikakc645@gmail.com**
 
@@ -62,12 +61,12 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sonika45&show_icons=true&theme=radical&hide_border=true"/>
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sonika45&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=sonika45&theme=radical&hide_border=true"/>
 </p>
 
