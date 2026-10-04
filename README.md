@@ -76,21 +76,7 @@
 
 ---
 
-## 📂 AI/ML Projects
 
-🔹 **Student Performance Prediction**
-Machine learning model for predicting student academic outcomes.
-
-🔹 **Student Dropout Risk Prediction**
-Predicting student dropout risk using academic and attendance-related data.
-
-🔹 **Travel Route Risk Prediction**
-Predicting travel risk using distance, elevation, slope, weather, rainfall, wind speed, and experience.
-
-🔹 **Personalized Learning Recommendation System**
-Exploring recommendation systems to recommend suitable learning materials based on student performance and learning history.
-
----
 
 ## 🤝 Connect With Me
 
