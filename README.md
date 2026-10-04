@@ -5,15 +5,16 @@
 📍 Nepal
 💼 Aspiring **AI/ML Engineer**
 
-🎓 BSc. CSIT Student | AI/ML Enthusiast
-🤖 Interested in **Machine Learning, Data Science & Artificial Intelligence**
+🎓 BSc. CSIT Student
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
+📊 Interested in **Data Science, Machine Learning & AI Research**
 🌱 Currently learning and building practical AI/ML projects.
 
 📫 Reach me at: **[sonikakc645@gmail.com](mailto:sonikakc645@gmail.com)**
 
 ---
 
-## 🤖 AI/ML Skills
+## 🧠 AI/ML Skills
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -33,40 +34,19 @@
   </a>
 </p>
 
-### 🧠 Machine Learning
+### Machine Learning
 
-* Supervised Learning
-* Classification
+* Data Preprocessing
+* Exploratory Data Analysis
+* Feature Engineering
 * Regression
+* Classification
+* Logistic Regression
+* Linear Regression
 * Decision Trees
 * K-Nearest Neighbors (KNN)
 * Support Vector Machine (SVM)
-* Logistic Regression
 * Model Evaluation
-* Data Preprocessing
-* Feature Engineering
-
----
-
-## 🛠️ Programming & Development
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
@@ -77,56 +57,38 @@
 * Pandas
 * Matplotlib
 * Data Cleaning
-* Exploratory Data Analysis (EDA)
 * Data Visualization
 * Statistical Analysis
 * SQL
+* Exploratory Data Analysis (EDA)
 
 ---
 
-## 🌐 Full-Stack & Other Skills
+## 🚀 Currently Learning
 
-<p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </a>
-</p>
+* 🤖 Machine Learning
+* 🧠 Artificial Intelligence
+* 📊 Data Science
+* 🔬 AI Research
+* 📈 Recommendation Systems
+* 🧮 Mathematics for Machine Learning
+* 🐍 Advanced Python for AI/ML
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-* 🤖 Learning **Machine Learning**
-* 📊 Practicing **Data Analysis with Python**
-* 🧠 Building practical **AI/ML projects**
-* 📚 Exploring **AI Engineering**
-* 🔬 Exploring **AI Research**
-* 💻 Learning how to deploy ML models into real-world applications
-
----
-
-## 📂 Featured AI/ML Projects
+## 📂 AI/ML Projects
 
 🔹 **Student Performance Prediction**
-Machine learning model for predicting student outcomes using academic data.
+Machine learning model for predicting student academic outcomes.
 
 🔹 **Student Dropout Risk Prediction**
-Predicting student dropout risk using attendance, marks, assignments, and other academic features.
+Predicting student dropout risk using academic and attendance-related data.
 
 🔹 **Travel Route Risk Prediction**
-Predicting travel route risk based on distance, elevation, slope, weather, rainfall, wind speed, and experience.
+Predicting travel risk using distance, elevation, slope, weather, rainfall, wind speed, and experience.
 
-🔹 **Student Support Recommendation System**
-Exploring recommendation systems to recommend personalized learning support to students.
+🔹 **Personalized Learning Recommendation System**
+Exploring recommendation systems to recommend suitable learning materials based on student performance and learning history.
 
 ---
 
@@ -161,6 +123,6 @@ Exploring recommendation systems to recommend personalized learning support to s
 
 ---
 
-### ✨ Learning. Building. Experimenting with AI.
+### ✨ Learning. Building. Exploring AI.
 
 **Aspiring AI/ML Engineer | BSc. CSIT Student | Machine Learning Enthusiast**
